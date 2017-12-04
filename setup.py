@@ -44,9 +44,9 @@ for rf in [read_requirements_txt("requirements/core.txt"),
     _git_ps += git_ps
 
 setup(
-    name="take_your_medicine",
+    name="you_med_bro",
     version="0.1",
-    description="Check if name taken",
+    description="Your very personal, angry, and punctual daily medicine checkin programmable nurse",
     author="Yeuk Hon Wong",
     author_email="yeukhon.tech@gmail.com",
     packages=find_packages(exclude=["tests*"]),
