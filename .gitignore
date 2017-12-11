@@ -1,3 +1,7 @@
+# Ignore project-related env shell files (they stored API credentials)
+env.sh
+test_env.sh
+
 # Swap files
 *.swap
 *.swp
