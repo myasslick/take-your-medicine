@@ -1,2 +1,0 @@
-bottle>=0.12
-twilio>=6.9
